@@ -1,0 +1,77 @@
+1. When you define a bucket in Amazon Simple Storage Service(Amazon S3), you must also specify the Region where the bucket exist.
+True 
+False
+
+Ans 1. True
+
+2. Access control list(ACLs) are defined with a JavaScript Object Notation (JSON) policy document.
+True
+False
+
+Ans 2. False
+
+3. Which statements about policy rule evaluation for AWS Identity and Access Management (IAM) are correct? (Select THREE.)
+   A> An explicit ALLOW overrides the default implicit denial of access to all resources, unless an explicit DENY overrides it.
+   B> An explicit DENY does not override all ALLOWS.
+   C> All policies are evaluated before a request is allowed or denied.
+   D> The evaluation order of the policies has no effect on outcome.
+   E> Results can either be allowed, denied, or submitted for further evaluation.
+   
+Ans 3. A,C,D
+
+4. Access permissions define which actions a user can take and/or which resources a user can access.
+   True
+   False
+   
+Ans 4. True
+
+5. It is a best practice to follow the policy of granting least privilege when you assign permissions.
+   True
+   False
+
+Ans 5. True
+
+6. Which service grants customers permissions to centrally manage access to the launch, configuration management, and termination of a resource?
+   A>AWS Identity and Access Management (IAM)
+   B>Amazon Elastic Compute Cloud (Amazon EC2)
+   C>Amazon Virtual Private Cloud (Amazon VPC)
+   D>All of the the above.
+   
+Ans 6. AWS Identity and Access Management (IAM)
+
+7. Which AWS service features would be within the scope of a Region? (Select TWO.)
+  A>Amazon CloudFront distributions
+  B>AWS Identity and Access Management (IAM) users, groups, and roles
+  C>Amazon Machine Images (AMIs)
+  D>Amazon Route 53 hosted zones
+  E>Amazon Simple Storage Service (Amazon S3) buckets
+  
+Ans 7. Amazon Machine Images (AMIS) and Amazon Simple Storage Service (Amazon S3) buckets
+
+8. Which of the following are best practices for IAM? (Select THREE)
+   A.Delegate administration functions based on the principle of least privilege.
+   B.Use the root account for daily administration.
+   C.Enable multi-factor authentication.
+   D.Rotate credentials regularly.
+   
+ Ans 8. A,C,D
+ 
+ 9. Which output formats are supported by the AWS Command Line Interface (AWS CLI)? (Select THREE.)
+   A.ASCII-formatted table
+   B.Path specification
+   C.JavaScript Object Notation (JSON)
+   D.Tab-delimited text
+   E.YAML Ain't Markup Language (YAML)
+   
+Ans 9. A,C,D
+
+10. Which part of the following AWS Command Line Interface (AWS CLI) command specifies the operation to be performed?
+aws ec2 stop-instances --instance-id i-1234567890abcdef0 --output json
+
+  A. ec2
+  B. -instance-id i-1234567890abcdef0
+  C. stop-instances
+  D. YAML Ain't markup lanaguage
+  E. --output json
+  
+Ans 10. stop-instances
