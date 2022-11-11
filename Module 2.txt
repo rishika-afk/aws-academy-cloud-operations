@@ -1,0 +1,71 @@
+1. What type of AWS Systems Manager document can take a snapshot of an Amazon Elastic Compute Cloud (Amazon EC2) instance?
+Command document
+Run document
+Script document
+Automation document
+
+Ans 1. Automation document
+
+2. You have Bash scripts that you routinely run on your Amazon Elastic Compute Cloud (Amazon EC2) instances that run Linux. Which AWS service or AWS service feature provides the simplest way to automate the running of these scripts?
+Distributor
+AWS OpsWorks Stacks
+AWS CodePipeline
+AWS Systems Manager
+
+Ans 2. AWS Systems Manager
+
+3. AWS CloudFormation templates can be written in either JavaScript Object Notation (JSON) or YAML Ain't Markup Language (YAML) files.
+True
+False
+
+Ans 3. True
+
+4.Which of the following are AWS OpsWorks offerings? (Select THREE.)
+A. AWS OpsWorks for Chef Automate
+B. AWS Tools for PowerShell
+C. AWS OpsWorks for Puppet Enterprise
+D. AWS OpsWorks Stacks
+
+Ans. A,C,D
+
+5. The URL for a website hosted in Amazon Simple Storage Service (Amazon S3) can include either a period (.) or a dash (-) to separate the website from the Region name.
+True
+False
+
+Ans 5. True
+
+6. AWS provides a single software development kit (SDK) that covers all programming languages.
+True
+False
+
+Ans 6. False
+
+7. Which AWS Systems Manager feature displays operational data for AWS resources?
+AWS System Manager Agent
+AWS Systems Manger Insights Dashboard
+AWS AppConfig
+None of the above
+
+Ans 7. AWS Systems Manger Insights Dashboard
+
+8. Which AWS Service can store configuration data?
+Systems Manager Parameter Store
+AWS Secrets Manager
+Amazon Kinesis
+None of the above
+
+Ans 8. Systems Manager Parameter Store
+
+9. You can create set time periods for running administrative tasks with AWS Systems Manager.
+True
+False
+
+Ans 9. True
+
+10. Which AWS Systems Manager feature enables access to an Amazon Elastic Compute Cloud (Amazon EC2) instance without opening inbound ports or bastion hosts?
+OpsCenter
+Explorer
+Session Manager
+None of the above.
+
+Ans 10.  Session Manager
