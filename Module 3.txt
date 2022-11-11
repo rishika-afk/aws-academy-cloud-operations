@@ -1,0 +1,79 @@
+1. What provides the required information that is needed to launch an Amazon Elastic Compute Cloud (Amazon EC2) instance?
+
+Amazon Machine Image (AMI)
+
+Launch Permissions
+
+Instance Profile
+
+None of the above
+
+Ans 1. Amazon Machine Image (AMI)
+
+2. Network performance can be impacted by the instance type that is selected for use.
+
+True
+
+False
+
+Ans 2. True
+
+3. SysOps engineer who works at a local university decided to launch Amazon Elastic Compute Cloud (Amazon EC2) instances to reduce their hardware footprint. They are new to AWS and only need to launch in one Region until their business grows.
+
+What is the first step when you launch an EC2 instance?
+
+Determine the Amazon Machine Image (AMI) that will be used.
+
+O Configure launch access and control permissions.
+
+O Provide configuration details.
+
+Select instance type and size.
+
+Ans 3. Determine the Amazon Machine Image (AMI) that will be used.
+
+4. A new billing hour begins when an instance is restarted.
+True
+False
+
+Ans 4. False
+
+5. Which Amazon Elastic Compute Cloud (Amazon EC2) lifecycle state retains the public IP address of the instance?
+Running
+Stopped
+Terminated
+All of these
+
+Ans 5. Running
+
+6. What enables an AWS Identity and Access Management (IAM) role information to be attached to an Amazon Elastic Compute Cloud (Amazon EC2) instance?
+
+Amazon Machine Image (AMI)
+
+Amazon Elastic Container Service (Amazon ECS)
+
+Instance profile
+
+All of these
+
+Ans 6. Instance Profile
+
+7. Data that is stored in an instance store is preserved even when the instance is stopped.
+True
+False
+
+Ans 7. False 
+
+8. Amazon EBS-optimized instances can provide better performance than other EBS storage options.
+True
+False
+
+Ans 8. True
+
+9. Which block storage option is best suited for I/O-intensive database and application workloads with extremely low latency?
+Magnetic Storage
+All of these
+Provisioned IOPS (SSD) Storage
+General Purpose (SSD) Storage
+
+Ans 9. Provisioned IOPS (SSD) Storage
