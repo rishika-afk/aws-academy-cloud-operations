@@ -1,0 +1,69 @@
+1. What is the primary purpose of automatic scaling?
+A.To orchestrate the use of multiple parallel resources to direct incoming user requests
+B.To ensure the long-term reliability of a particular virtual resource
+C.To ensure the long-term reliability of a particular physical resource
+D.To ensure that applications are automatically adjusted for capacity to maintain steady, predictable performance at the lowest possible cost
+
+Ans 1. D
+
+2. Which AWS service provides customers with a cost-effective way to route end users to Amazon Elastic Cloud (Amazon EC2) instances and Elastic Load Balancing load balancers?
+Amazon CloudFront
+Amazon CloudWatch
+Amazon Route 53
+Amazon Virtual Private Cloud
+
+Ans 2. Amazon Route 53
+
+3. What could be a final recommended (but optional) step when you create a load balancer?
+Use the create-load-balancer command, and then specify two subnets from different Availability Zones.
+Use the create-target-group command to create the target groups, and then specify the virtual private cloud (VPC) that was used in the Amazon Elastic Compute Cloud (Amazon EC2) instances.
+Use the describe-target-health command to verify the health of the instances for any registered instances.
+Use the register-targets command to register the instances within the target group.
+
+Ans 3. Use the describe-target-health command to verify the health of the instances for any registered instances.
+
+4. What happens to CPU utilization when an Amazon Elastic Compute Cloud (Amazon EC2) Auto Scaling group cannot continue scaling up?
+Decreases
+Increases
+Stabilizes
+Terminates
+
+Ans 4. Increases
+
+5. Application load balancers are not supported by applications that run in containers
+True
+False
+
+Ans 5. False
+
+6. A health check is completed for all targets that are registered to a target group as specified by the load balancer's listener rule.
+True 
+False
+
+Ans 6. True
+
+7.  _
+
+8. Creating alarms that are only triggered by sustained state changes can reduce thrashing. (Thrashing is the condition where there is excessive use of a computer's virtual memory, and the computer is no longer able to service the resource needs of applications that run on it).
+True
+False
+
+Ans 8. True
+
+9. Which type of load balancer supports content-based routing?
+Application Load Balancer
+Classic Load Balancer
+Network Load Balancer
+All of these
+None of these
+
+Ans 9. Application Load Balancer
+
+10. Which routing policy routes traffic to several resources, based on established proportions?
+Failover routing policy
+Geoproximity routing policy
+Multi-value answer routing policy
+Simple routing policy
+Weighted routing policy
+
+Ans 10. Weighted routing policy
