@@ -1,0 +1,97 @@
+1. Which AWS services can increase the ease of running and managing Docker containers? (Select THREE.)
+A.Amazon Elastic Container Service (Amazon ECS)
+B.Amazon Elastic Kubernetes Service (Amazon EKS)
+C.AWS Fargate
+D.Amazon Elastic Compute Cloud (Amazon EC2)
+
+Ans 1. A,B,C
+
+2. 2. AWS Lambda automatically scales to support incoming requests without additional configuration, and it remains fault-tolerant.
+True
+False
+
+Ans 2. True
+
+3. What performs the work in a workflow when you use AWS Step Functions?
+States
+Tasks
+Transitions
+All of these
+
+Ans 3. Tasks
+
+4. Which AWS service should a customer select if they must store, manage, and deploy Docker container images, with considerations for encryption, third-party integrations, and high availability?
+
+Amazon Elastic Kubernetes Service (Amazon EKS)
+
+Amazon Elastic Container Registry (Amazon ECR)
+
+AWS Fargate
+
+Amazon Lightsail
+
+Ans 4. Amazon Elastic Container Registry (Amazon ECR)
+
+5. Which of the following provides a managed service for running containers?
+
+Amazon Container Service (Amazon ECS)
+
+AWS Fargate
+
+Amazon ElastContainer Registry (Amazon ECR)
+
+All of the above
+
+Ans 5. AWS Fargate
+
+6. A trucking company wants to minimize dependence on their cloud service provider, while increasing the development speed of various applications. The company is deciding if they should use containers or go serverless. They need secure compute capacity when trucks are at their home base. They must also support partner companies when the partner companies are visiting them, and they might need to accommodate those users once every couple of months. Which statements describe when the company might find that containers are a more ideal option? (Select THREE.)
+
+A.Have the ability to scale back or tear down as needed.
+
+B.They want to manage the resources and their respective policies, and oversee security.
+
+C.They must ensure that their cloud service provider provisions the infrastructure and manages capacity.
+
+D.They must move software from one environment to another through isolation.
+
+E.They have requirements for portability and not getting locked into a single vendor.
+
+
+Ans 6. -
+
+7. Which AWS service feature provides encryption for data at rest for Amazon Elastic Container Registry (Amazon ECR)?
+
+Amazon API Gateway
+Amazon Simple Storage Service (Amazon S3) client-side encryption
+Amazon Simple Storage Service (Amazon S3) server-side encryption
+Amazon Simple Storage Service Glacier
+
+Ans 7. Amazon Simple Storage Service (Amazon S3) server-side encryption
+
+8. Amazon Elastic Container Registry (Amazon ECR) uses defined policies with AWS Identity and Access Management (IAM) to control who has access to container images.
+
+True
+
+False
+
+Ans 8. True
+
+9. Amazon Elastic Kubernetes Services (Amazon EKS) deploys a cluster's worker nodes across multiple Regions to eliminate a single point of failure.
+
+True
+
+False
+
+Ans 9. False
+
+Which statements describe how Kubernetes works? (Select THREE.)
+
+A.Kubernetes gives each cluster their own IP address and a single Domain Name System (DNS) name that is used for external traffic.
+
+B.Kubernetes schedules containers to run on the cluster based on the available compute resources and the resource requirements of each container.
+
+C.Kubernetes manages a cluster of compute instances.
+
+D.A pod is automatically started or restarted if the pod is not running or fails.
+
+Ans 10. B,C,D
