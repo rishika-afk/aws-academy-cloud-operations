@@ -1,0 +1,29 @@
+1. Inherited tags count towards the total tag limit for a resource.
+True
+
+2. Which AWS service or AWS service feature illustrates the most used resources and the proportional costs of their use?
+Month-to-Date Spend by Service
+
+3. AWS Trusted Advisor can identify underutilized load balancers and volumes.
+True
+
+4. Which AWS service can be used to define and enforce required tags?
+AWS Config
+
+5. What is the main difference between the goals of AWS Cost Explorer and of cost and usage reports?
+Cost Explore display visualizations of high-level historical and current account costs, but cost and usage reports generate granular usage reports in comma-separated value(CSV) format.
+
+6.Which service should be used to find instances that run idle and are increasing costs?
+Amazon CloudWatch
+
+7. Which feature of AWS Billing and Cost Management enables you to view costs across linked accounts, and to monitor spending on a daily and monthly basis?
+AWS Budgets
+
+8. Using a stopinator script is a best practice for reducing cost.
+True
+
+9. AWS Config will only evaluate a rule against resources when the resources are running.
+False
+
+10. You can enforce the use of tags with an AWS IAM policy.
+True
