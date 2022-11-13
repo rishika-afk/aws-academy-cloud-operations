@@ -1,0 +1,34 @@
+1. Amazon CloudWatch alarms are issued in near real-time in responses to changes.
+True
+
+2. Amazon CloudWatch Events can be set to automatically trigger based on rate expressions.
+True
+
+3. What is a name/value pair that is used for metric identification, and can assist with the design structure for a statistics plan?
+Dimension
+
+4. Which of the following AWS service can be used with AWS CloudTrail to store event logs?
+Amazon S3
+
+5. What does AWS CloudTrail allow an IT administrator to determine for a given request made to AWS Config? (Select four responses.)
+-Source IP address of the request
+-Time of the request
+-Type of request
+-Who made the request
+
+6. Which feature of Amazon CloudWatch would you use to publish a statistic on service memory usage for an HTTP server running on an Amazon EC2 instance?
+Custom metrics
+
+7. An Amazon CloudWatch event indicates a change in a resource in your AWS environment.
+True
+
+8. What are the possible states of an Amazon CloudWatch alarm? Select three responses.
+-Alarm
+-Insufficient Data
+-Ok
+
+9. AWS Config can provide a list of all AWS resources used by an account.
+True
+
+10. Which AWS service monitors a metric and sends an alert when the metric changes?
+Amazon CloudWatch Alarms
