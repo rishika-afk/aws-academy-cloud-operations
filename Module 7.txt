@@ -1,0 +1,76 @@
+1. What describes the connection between two or more virtual private clouds (VPCs)?
+Corporate network connection
+Data network connection
+Peering connection
+Subnet routing option
+
+Ans 1. Peering connection
+
+2. How many IP addresses does Amazon VPC reserve in a subnet?
+2
+6
+3
+5
+
+Ans 2. 5
+
+3. When you create a subnet, which route table (if any) is associated with it by default?
+Custom route table.
+Main route table.
+Outbound route table.
+No route table is associated with it.
+
+Ans 3. Main route table
+
+4. A best practice for IP addressing across multiple virtual private clouds (VPCs) is to use non-overlapping IP address ranges.
+True
+False
+
+Ans. True
+
+5. Which statements about a default VPC are true? (Select TWO.)
+A default VPC spans multiple Regions.
+AWS creates a default VPC in each Region.
+AWS creates a default VPC in each Availability Zone.
+By default, each default VPC is available to one AWS account.
+
+Ans 5. 
+ 
+6. What is a valid target in a route table?
+Elastic network interface ID
+Instance ID
+Virtual private gateway ID
+All of the above
+
+Ans 6. All of the Above
+
+7. A virtual private cloud (VPC) can span multiple Availability Zones.
+
+True
+
+False
+
+Ans 7. True
+
+8. Which statements describe security groups? (Select TWO.)
+A.Multiple security groups can be assigned to an instance.
+B.Security group associations can be added and modified after an instance is created.
+C.Security groups are applied at the network's entry point.
+D.Several instances can be assigned to a security group.
+
+Ans 8. A,B
+
+9. An virtual private cloud (VPC) has an implicit router and a default route table that routes local traffic within it.
+True
+False
+
+Ans 9. True
+
+10. What is a logical network segment in a virtual private cloud (VPC) that can only exist within a single Availability Zone?
+Customer gateway
+Internet gateway
+Security group
+Subnet
+Virtual private gateway
+
+Ans 10. Subnet
