@@ -1,0 +1,84 @@
+1. Which AWS database service would increase availability and performance by enabling multiple replicas?
+Amazon Aurora
+Amazon DynamoDB
+Amazon Relational Database Service (Amazon RDS)
+Amazon Redshift
+
+Ans 1. Amazon Aurora
+
+2. Which feature of Amazon DynamoDB builds a global footprint by replicating tables automatically across selected Regions?
+Global Tables
+Integrated monitoring
+Encryption at rest
+Amazon DynamoDB Accelerator (DAX)
+
+Ans 2. Global Tables
+
+3. A cloud-based bank created a new credit card line. The bank must expand their database to capture new customer profiles and link existing customer profiles to the new card line. They must also maintain security and compliance with the Payment Card Industry Data Security Standard (PCI-DSS). Their customers can use a mobile app or a website for account transactions and profiles, and they can also view visualizations based on their financial data. Which AWS service should be prioritized for the bank's database if they want to graph connected data about their customers' financial behaviors?
+Amazon Aurora
+Amazon DynamoDB
+Amazon ElastiCache
+Amazon Neptune
+Amazon Redshift
+
+Ans 3. Amazon Neptune
+
+4. A customer decided to migrate from a MySQL database that runs in their data center to Amazon Aurora. Which AWS service or AWS service feature should be used to automatically convert data throughout the migration?
+AWS DataSync
+AWS Database Migration Service (AWS DMS)
+Amazon Aurora storage engine
+All of these
+
+Ans 4. AWS Database Migration Service (AWS DMS)
+
+5. Amazon Relational Database Service (Amazon RDS) handles time-consuming administrative tasks, such as patching and backups.
+True
+False
+
+Ans 5. True
+
+6. NoSQL database schemas are dynamic.
+True
+False
+
+Ans 6. True
+
+7. You are the SysOps administrator for a small global shipping organization. You must reduce costs and administrative overhead in your company's PostgreSQL environments. The most important requirements for this project are maintaining performance, scalability, and compatibility.
+
+Which AWS service would meet the project requirements?
+Amazon ElastiCache
+Amazon Neptune
+Amazon Relational Database Service (Amazon RDS)
+Amazon DynamoDB
+
+Ans 7. Amazon Relational Database Service (Amazon RDS)
+
+8. What is a NoSQL database option?
+Amazon Aurora
+Amazon DynamoDB
+Amazon Relational Database Service (Amazon RDS)
+MariaDB
+PostgreSQL
+
+Ans 8. Amazon DynamoDB
+
+9. Which AWS service should a customer consider if they need a relational database that is compatible with MySQL and PostgreSQL, and that is also built for the cloud?
+
+Amazon Aurora
+
+Amazon DynamoDB
+
+Amazon Relational Database Service (Amazon RDS)
+
+All of the above
+
+Ans 9. Amazon Aurora
+
+10. What is the maximum number of read replicas that an Amazon Aurora database cluster can have?
+25
+5
+10
+15
+20
+
+Ans 10. 15
