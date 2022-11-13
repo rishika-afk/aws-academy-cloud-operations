@@ -1,0 +1,75 @@
+1. Where is an Amazon Elastic Block Store (Amazon EBS) volume tied to?
+Availability Zones
+Data facility
+Edge location
+Regions
+
+Ans 1. Availability Zones
+
+2. Which of the following need to be defined for an Amazon Data Lifecycle Manager policy? (Select THREE.)
+A.Resource type
+B.Target tag
+C.Region
+D.Availability zone
+E.Schedule
+
+Ans 2. A,B,E
+
+3. Amazon Elastic Block Store (Amazon EBS) snapshots are based on deltas, which means that only changes to previous snapshots are saved to Amazon Simple Storage Service (Amazon S3).
+True
+False
+
+And 3. True
+
+4. Which storage solution can be network-attached to an Amazon Elastic Compute Cloud (Amazon EC2) instance?
+Amazon Elastic Block Store (Amazon EBS)
+Instance store (ephemeral)
+Amazon Simple Storage Service Glacier
+Amazon Simple Storage Service (Amazon S3)
+
+Ans 4. Amazon Elastic Block Store (Amazon EBS)
+
+5. After versioning is enabled on an Amazon Simple Storage Service (Amazon S3) bucket, it can then be disabled.
+True
+False
+
+Ans 5. False
+
+6. Which services can be used with Amazon Simple Storage Service (Amazon S3) to receive a notification of a bucket change?
+AWS Lambda
+Amazon Simple Notification Service (Amazon SNS)
+Amazon Simple Queue Service (Amazon SQS)
+All of the above
+
+Ans 6. All of the Above
+
+7. Which solution is best suited as a cache or buffer?
+Amazon Elastic Block Store (Amazon EBS)
+Amazon Elastic File System (Amazon EFS)
+Amazon Simple Storage Service Glacier
+Amazon Simple Storage Service (Amazon S3)
+Instance store (ephemeral)
+
+Ans 7. Instance store (ephemeral)
+
+8. How much time should it take for archived data to be retrieved by using the bulk retrieval option for Amazon Simple Storage Service Glacier?
+1-5 minutes
+3-5 hours
+5-12 hours
+1-2 days
+
+Ans 8. 5-12 hours
+
+9. Amazon Elastic File System (Amazon EFS) can span across multiple Availability Zones in different Regions.
+True
+False
+
+Ans 9. True
+
+10. Which bucket versioning state results in the addition of a marker when an object is deleted?
+Unversioned
+Versioning-enabled
+Versioning-suspended
+None of the above
+
+Ans 10. Versioning-enabled
